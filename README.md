@@ -1,2 +1,2 @@
 # API-Automation-Project
-Python project that automates cryptocurrency market data retrieval using the CoinGecko API, fetching live prices, market cap, and volume for analysis.
+This is a Python-based automation project that fetches real-time cryptocurrency market data using the CoinGecko public API. The project retrieves live prices, market capitalization, and 24-hour trading volume for selected cryptocurrencies. It is designed as a beginner-friendly project to demonstrate API integration, data extraction, and basic automation using Python. The extracted data is exported to an Excel file for further analysis, and two visualizations are generated at the end: a categorical plot (catplot) and a line graph to help analyze market trends.
